@@ -2,13 +2,13 @@ project:
   type: book
 
 book:
-  title: "RS Diary"
-  author: "Jane Doe"
-  date: "2023/2/9"
+  title: "巫雨洋的学习日记"
+  author: "Yuyang Wu"
+  date: "2023/1/26"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - WEEK1.qmd
+    - WEEK2.qmd
     - references.qmd
 
 bibliography: references.bib
